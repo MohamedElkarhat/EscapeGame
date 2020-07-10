@@ -1,0 +1,230 @@
+INFO    2020-07-10 00:36:38,947 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+INFO    2020-07-10 00:37:26,480 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+INFO    2020-07-10 00:37:47,457 [main] fr.em.Game.Game  - Fermeture de l'application
+DEBUG   2020-07-10 00:38:14,698 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 00:38:14,714 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 00:38:14,714 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 00:38:14,714 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 00:38:19,560 [main] fr.em.Game.Game  - Vous avez choisi le mode Duel. 
+INFO    2020-07-10 00:39:10,753 [main] fr.em.Game.Game  - Fermeture de l'application
+DEBUG   2020-07-10 01:35:13,670 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:35:13,670 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:35:13,670 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:35:13,670 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:35:18,819 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:36:41,970 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:36:41,986 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:36:41,986 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:36:41,986 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:36:46,297 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:39:07,701 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:39:07,716 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:39:07,716 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:39:07,716 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:39:10,741 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:41:18,553 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:41:18,553 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:41:18,553 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:41:18,553 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:41:21,932 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:47:55,442 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:47:55,458 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:47:55,458 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:47:55,458 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:47:58,491 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:50:27,405 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:50:27,405 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:50:27,405 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:50:27,405 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:50:30,070 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:51:09,810 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:51:09,826 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:51:09,826 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:51:09,826 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:51:11,998 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:51:42,573 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:51:42,577 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:51:42,578 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:51:42,578 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:51:45,990 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:52:17,356 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:52:17,371 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:52:17,371 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:52:17,371 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:52:22,615 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:52:50,717 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:52:50,733 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:52:50,733 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:52:50,733 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:52:59,015 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:53:41,075 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:53:41,075 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:53:41,075 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:53:41,075 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:53:43,331 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:55:10,343 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:55:10,359 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:55:10,359 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:55:10,359 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:55:14,645 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:56:14,084 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:56:14,099 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:56:14,099 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:56:14,099 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:56:17,552 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:56:52,344 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:56:52,352 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:56:52,352 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:56:52,353 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:56:58,366 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 01:58:13,320 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 01:58:13,320 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 01:58:13,320 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 01:58:13,320 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 01:58:17,956 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+INFO    2020-07-10 01:59:15,836 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+INFO    2020-07-10 01:59:18,360 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+INFO    2020-07-10 01:59:18,375 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+INFO    2020-07-10 01:59:19,413 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 07:42:27,645 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 07:42:27,667 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 07:42:27,669 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 07:42:27,669 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 07:42:40,764 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 07:44:51,010 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 07:44:51,017 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 07:44:51,017 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 07:44:51,018 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 07:44:55,166 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 07:45:59,918 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 07:45:59,924 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 07:45:59,925 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 07:45:59,925 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 07:48:31,203 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+INFO    2020-07-10 07:53:38,111 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+INFO    2020-07-10 07:54:23,427 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 07:54:49,365 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 07:54:49,372 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 07:54:49,373 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 07:54:49,373 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 07:54:51,364 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 07:55:08,864 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 07:55:08,869 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 07:55:08,869 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 07:55:08,870 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 07:55:30,997 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 07:56:06,300 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 07:56:06,307 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 07:56:06,308 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 07:56:06,308 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 07:56:10,725 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 08:05:31,864 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 08:05:31,872 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 08:05:31,872 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 08:05:31,873 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 08:05:35,786 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 08:09:24,832 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 08:09:24,839 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 08:09:24,840 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 08:09:24,840 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 08:09:31,264 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+INFO    2020-07-10 08:09:58,815 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 08:11:46,524 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 08:11:46,529 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 08:11:46,530 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 08:11:46,530 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 08:11:57,347 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 08:12:39,533 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 08:12:39,549 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 08:12:39,549 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 08:12:39,549 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 08:12:43,976 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 08:13:10,897 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 08:13:10,897 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 08:13:10,897 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 08:13:10,897 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 08:13:21,992 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 08:14:13,502 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 08:14:13,502 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 08:14:13,502 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 08:14:13,502 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 08:14:16,998 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 08:15:23,593 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 08:15:23,608 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 08:15:23,608 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 08:15:23,608 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 08:15:30,363 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 08:16:48,604 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 08:16:48,619 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 08:16:48,619 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 08:16:48,619 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 08:16:52,864 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+INFO    2020-07-10 08:18:18,053 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 08:30:56,341 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 08:30:56,341 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 08:30:56,341 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 08:30:56,341 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 08:30:59,207 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 08:50:23,522 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 08:50:23,522 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 08:50:23,537 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 08:50:23,537 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 08:50:26,681 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 08:52:03,524 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 08:52:03,539 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 08:52:03,539 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 08:52:03,539 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 08:52:05,939 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 09:11:55,999 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 09:11:56,004 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 09:11:56,004 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 09:11:56,005 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 09:12:00,511 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 09:13:36,151 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 09:13:36,156 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 09:13:36,156 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 09:13:36,156 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 09:13:42,317 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 09:15:13,576 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 09:15:13,591 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 09:15:13,591 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 09:15:13,591 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 09:15:20,580 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 09:16:07,513 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 09:16:07,513 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 09:16:07,513 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 09:16:07,513 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 09:16:11,348 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 09:17:05,821 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 09:17:05,821 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 09:17:05,821 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 09:17:05,821 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 09:17:10,204 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 09:17:51,250 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 09:17:51,250 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 09:17:51,250 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 09:17:51,250 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 09:17:53,616 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+DEBUG   2020-07-10 09:18:36,639 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 09:18:36,639 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 09:18:36,639 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 09:18:36,639 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 09:18:40,549 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+INFO    2020-07-10 09:21:17,797 [main] fr.em.Game.Game  - Fermeture de l'application
+DEBUG   2020-07-10 09:23:58,095 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 09:23:58,102 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 09:23:58,102 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 09:23:58,103 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 09:24:02,007 [main] fr.em.Game.Game  - Vous avez choisi le mode Challenger. 
+DEBUG   2020-07-10 09:24:58,107 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 09:24:58,115 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 09:24:58,115 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 09:24:58,116 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 09:25:03,422 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+INFO    2020-07-10 09:25:47,612 [main] fr.em.Game.Game  - Vous avez choisi le mode Duel. 
+DEBUG   2020-07-10 09:26:48,523 [main] fr.em.Game.Game  - this is a debug log message
+INFO    2020-07-10 09:26:48,523 [main] fr.em.Game.Game  - this is a information log message
+WARN    2020-07-10 09:26:48,523 [main] fr.em.Game.Game  - this is a warning log message
+INFO    2020-07-10 09:26:48,523 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-10 09:26:51,008 [main] fr.em.Game.Game  - Vous avez choisi le mode Duel. 
+INFO    2020-07-10 09:28:09,428 [main] fr.em.Game.Game  - Vous avez choisi le mode Duel. 

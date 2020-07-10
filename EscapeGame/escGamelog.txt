@@ -1,0 +1,4 @@
+INFO    2020-07-09 22:37:26,603 [main] fr.em.Game.Game  - Debut de jeu!!!!
+INFO    2020-07-09 22:37:43,788 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+INFO    2020-07-09 22:39:32,709 [main] fr.em.Game.Game  - Vous avez choisi le mode Defenseur. 
+INFO    2020-07-09 22:40:11,126 [main] fr.em.Game.Game  - Fermeture de l'application
